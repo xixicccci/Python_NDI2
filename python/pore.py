@@ -4,8 +4,6 @@
 # Archimedean spiral-https://en.wikipedia.org/wiki/Archimedean_spiral?utm_source
 # Daniel Berio-Ndi_numpy_image.py
 
-# I used Chat GPT to assist me in explaining the Archimedean spiral and polar coordinates.
-
 ''''
 NDI Sender example using py5canvas and NDIlib
 To run you need to install the NDI SDK (system wide) on your machine from:
