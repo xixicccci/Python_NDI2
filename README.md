@@ -67,8 +67,6 @@ Pore，by Wenxi Cao，2026. This project constructs a generative model based on 
 If you are interested in collaborating, please contact: caowenxixi@126.com
 
 
-
-
 ## Requirements
 *Tech stack, browser, OS, libs.*
 
