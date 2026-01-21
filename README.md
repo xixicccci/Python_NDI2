@@ -84,10 +84,10 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 
 ## Screenshots
 
-![Image 1](Images/1.png)
-![Image 2](Images/2.png)
-![Image 3](Images/3.png)
-![Image 4](Images/4.png)
+![Image 1](Image/1.png)
+![Image 2](Image/2.png)
+![Image 3](Image/3.png)
+![Image 4](Image/4.png)
 
 ## Credits / Acknowledgements
 * Author- Wenxi Cao（Cici Cao）
