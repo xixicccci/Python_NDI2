@@ -122,6 +122,7 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 
 * References  
   Archimedean spiral-https://en.wikipedia.org/wiki/Archimedean_spiral?utm_source
+  
   Daniel Berio-Ndi_numpy_image.py
 
 ## License
