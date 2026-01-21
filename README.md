@@ -21,7 +21,6 @@ There are two possible display methods for this work:
 
 
 ### Computer 
-
 The coding has been successfully run on the following models:
 
 Apple M3 Max (16-inch, 2021)， 36GB unified memory，1TB SSD²，Mac OS Sonoma 14.8.3  
@@ -45,8 +44,19 @@ There are two ways to present this work:
 Use a pre-edited video recording of the piece for projection or display. Connect the video from the computer to the screen or projector via the HDMI  interface.
 
 *  Live generative version  
-   Install Python and configure the py5 environment.  
-   The visuals are generated in real-time and streamed via NDI to a receiver such as TouchDesigner for display.
+This project generates real-time visuals using Python and py5, and streams the output via NDI to TouchDesigner for display and control.
+
+### Setup Instructions
+* Step 1: Install Python and Configure the py5 Environment
+  1. Download and install **Visual Studio Code**  
+   https://code.visualstudio.com/
+  2. Install Python(version 3.10 or above recommended)
+  3. In Visual Studio Code, configure the **py5 environment**  
+   - Install the Python extension in VS Code  
+   - Set up a virtual environment if required  
+   - Install py5 and related dependencies  
+
+
 
 ## Calibration 
 * Sound synchronization
