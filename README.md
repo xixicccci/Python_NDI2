@@ -117,7 +117,7 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 ![Image 3](Image/3.png)
 ![Image 4](Image/4.png)
 
-## Credits / Acknowledgements
+## Credits
 * Author- Wenxi Cao（Cici Cao）
 
 * References  
