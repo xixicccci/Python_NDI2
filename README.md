@@ -43,7 +43,7 @@ There are two ways to present this work:
 * Pre-rendered playback 
 Use a pre-edited video recording of the piece for projection or display. Connect the video from the computer to the screen or projector via the HDMI  interface.
 
-*  Live generative version  
+* Live generative version  
 This project generates real-time visuals using Python and py5, and streams the output via NDI to TouchDesigner for display and control.
 
 ### Setup Instructions
@@ -63,11 +63,18 @@ This project generates real-time visuals using Python and py5, and streams the o
 * Step 2: Install TouchDesigner
   Download and install **TouchDesigner** from:  https://derivative.ca/
 
-* Step 3: Install NDI
-  Download from: https://ndi.video/
+* Step 3: Install **NDI**
+  Download from: https://ndi.video/  
 
+* Step 4: Run the Python Script
+  1. Open the project folder in **Visual Studio Code**
+  2. Run the file: **pore.py**
 
-
+* Step5: Display in TouchDesigner
+	1.	Open TouchDesigner
+	2.	Use an NDI In TOP to receive the video stream
+	3.	Use a Switch TOP to switch between different visual inputs
+	4.	Further visual control and composition can be performed within TouchDesigner
 
 ## Calibration 
 * Sound synchronization
