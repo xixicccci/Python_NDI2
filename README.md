@@ -47,14 +47,21 @@ Use a pre-edited video recording of the piece for projection or display. Connect
 This project generates real-time visuals using Python and py5, and streams the output via NDI to TouchDesigner for display and control.
 
 ### Setup Instructions
+
 * Step 1: Install Python and Configure the py5 Environment
-  1. Download and install **Visual Studio Code**  
-   https://code.visualstudio.com/
+
+  1. Download and install **Visual Studio Code**  https://code.visualstudio.com/
   2. Install Python(version 3.10 or above recommended)
-  3. In Visual Studio Code, configure the **py5 environment**  
-   - Install the Python extension in VS Code  
-   - Set up a virtual environment if required  
+  3. In Visual Studio Code, configure the **py5 environment**
+     
+   - Install the Python extension in VS Code    
+   
+   - Set up a virtual environment if required    
+   
    - Install py5 and related dependencies  
+   
+* Step 2: Install TouchDesigner
+  Download and install **TouchDesigner** from:  https://derivative.ca/
 
 
 
