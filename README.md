@@ -51,17 +51,21 @@ This project generates real-time visuals using Python and py5, and streams the o
 * Step 1: Install Python and Configure the py5 Environment
 
   1. Download and install **Visual Studio Code**  https://code.visualstudio.com/
-  2. Install Python(version 3.10 or above recommended)
+  2. Install **Python**(version 3.10 or above recommended)
   3. In Visual Studio Code, configure the **py5 environment**
      
-   - Install the Python extension in VS Code    
+      - Install the Python extension in VS Code    
    
-   - Set up a virtual environment if required    
+      - Set up a virtual environment if required    
    
-   - Install py5 and related dependencies  
+      - Install py5 and related dependencies  
    
 * Step 2: Install TouchDesigner
   Download and install **TouchDesigner** from:  https://derivative.ca/
+
+* Step 3: Install NDI
+  Download from: [https://ndi.video/for-developers/ndi-sdk/ 2. Install the SDK 3. Set runtime path: export DYLD_LIBRARY_PATH="/Library/NDI SDK for     Apple/Lib/macOS:$DYLD_LIBRARY_PATH" To persist this, add it to ~/.zprofile<img width="4118" height="50" alt="image" src="https://github.com/user-attachments/assets/252a7c5f-f30d-4fdf-817a-fbb46f061863" />](https://ndi.video/)
+
 
 
 
