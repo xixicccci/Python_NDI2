@@ -13,14 +13,14 @@ Finally, the project models the folding and feedback behavior of soft-bodied sur
 
 You need to supply three pieces of hardware to show this project:
 
-Display  
+### Display  
 There are two possible display methods for this work:
 
 * Projection onto a flat surface – A standard projector can be used to project the visuals onto a white wall or a white projection screen.
 * Immersive three-panel installation – The visuals can also be presented within a three-sided projection 
 
 
-*2. Computer 
+### Computer 
 
 The coding has been successfully run on the following models:
 
@@ -30,7 +30,7 @@ macOS (Apple Silicon – MacBook Pro M1 to M4 series)
 
 The computer must be connected to the screen by an HDMI.
 
-*3. Light
+### Light
 
 The audience should be placed in complete darkness to ensure the imagery is rendered with maximum clarity and contrast.
 Any ambient or spill light should be eliminated from the exhibition space to preserve the intended perceptual experience.  
