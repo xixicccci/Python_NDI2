@@ -1,5 +1,5 @@
 # PROJECT TITLE
-Pore
+**Pore**
 
 ## Short Description
 This project constructs a generative model based on local soft tissue behavior and structural feedback mechanisms, aiming to explore the generative logic of biological forms such as shell spirals, porous topologies and flexible folds within digital systems.
