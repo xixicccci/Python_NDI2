@@ -43,10 +43,10 @@ Any ambient or spill light should be eliminated from the exhibition space to pre
 
 There are two ways to present this work:
 
-*1. Pre-rendered playback 
-   Use a pre-edited video recording of the piece for projection or display. Connect the video from the computer to the screen or projector via the HDMI interface.
+* Pre-rendered playback 
+Use a pre-edited video recording of the piece for projection or display. Connect the video from the computer to the screen or projector via the HDMI  interface.
 
-*2. Live generative version  
+*  Live generative version  
    Install Python and configure the py5 environment.  
    The visuals are generated in real-time and streamed via NDI to a receiver such as TouchDesigner for display.
 
