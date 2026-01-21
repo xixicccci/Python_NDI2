@@ -37,7 +37,6 @@ The computer must be connected to the screen by an HDMI.
 The audience should be placed in complete darkness to ensure the imagery is rendered with maximum clarity and contrast.
 Any ambient or spill light should be eliminated from the exhibition space to preserve the intended perceptual experience.  
 
-
 ##Technology Used
 *How did you make it, what libraries etc used*
 
@@ -59,12 +58,13 @@ If the installation includes sound, confirm that there is no noticeable audio de
 * Visual display
 Ensure that the projected or screen-displayed visuals appear correctly.  
 Check for proper orientation (portrait or landscape), resolution (e.g. 1920×1080), and smooth frame playback.
-//If using NDI, verify that the video stream is being received without latency or frame skipping.
+
+* If using NDI, verify that the video stream is being received without latency or frame skipping.
 
 ## Text
 Please put the following text next to the work:
 
-Pore，by Wenxi Cao，2026. This project constructs a generative model based on local soft tissue behavior and structural feedback mechanisms, aiming to explore the generative logic of biological forms such as shell spirals, porous topologies and flexible folds within digital systems.
+Pore, by Wenxi Cao, 2026. This project constructs a generative model based on local soft tissue behavior and structural feedback mechanisms, aiming to explore the generative logic of biological forms such as shell spirals, porous topologies and flexible folds within digital systems.
 
 If you are interested in collaborating, please contact: caowenxixi@126.com
 
