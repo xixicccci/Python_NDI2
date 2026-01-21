@@ -37,9 +37,6 @@ The computer must be connected to the screen by an HDMI.
 The audience should be placed in complete darkness to ensure the imagery is rendered with maximum clarity and contrast.
 Any ambient or spill light should be eliminated from the exhibition space to preserve the intended perceptual experience.  
 
-##Technology Used
-*How did you make it, what libraries etc used*
-
 ## Installation
 
 There are two ways to present this work:
@@ -85,14 +82,18 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 - ndi-python
 - py5
 
-## Screenshots / Media
-
+## Screenshots
+![Demo image](images/1.png)
+![Demo image](images/2.png)
+![Demo image](images/3.png)
+![Demo image](images/4.png)
 
 ## Credits / Acknowledgements
 * Author- Wenxi Cao（Cici Cao）
 
 * References
 Archimedean spiral-https://en.wikipedia.org/wiki/Archimedean_spiral?utm_source
+
 Daniel Berio-Ndi_numpy_image.py
 
 ## License
