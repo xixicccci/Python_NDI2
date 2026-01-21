@@ -64,7 +64,7 @@ This project generates real-time visuals using Python and py5, and streams the o
   Download and install **TouchDesigner** from:  https://derivative.ca/
 
 * Step 3: Install NDI
-  Download from: [https://ndi.video/for-developers/ndi-sdk/ 2. Install the SDK 3. Set runtime path: export DYLD_LIBRARY_PATH="/Library/NDI SDK for     Apple/Lib/macOS:$DYLD_LIBRARY_PATH" To persist this, add it to ~/.zprofile<img width="4118" height="50" alt="image" src="https://github.com/user-attachments/assets/252a7c5f-f30d-4fdf-817a-fbb46f061863" />](https://ndi.video/)
+  Download from: https://ndi.video/
 
 
 
