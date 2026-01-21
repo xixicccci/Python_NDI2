@@ -13,11 +13,11 @@ Finally, the project models the folding and feedback behavior of soft-bodied sur
 
 You need to supply three pieces of hardware to show this project:
 
-*1. Display  
+Display  
 There are two possible display methods for this work:
 
-*Projection onto a flat surface – A standard projector can be used to project the visuals onto a white wall or a white projection screen.
-*Immersive three-panel installation – The visuals can also be presented within a three-sided projection 
+* Projection onto a flat surface – A standard projector can be used to project the visuals onto a white wall or a white projection screen.
+* Immersive three-panel installation – The visuals can also be presented within a three-sided projection 
 
 
 *2. Computer 
