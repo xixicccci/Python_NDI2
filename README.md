@@ -70,22 +70,33 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 
 
 ## Requirements
-*Tech stack, browser, OS, libs.*
+
+### Tech Stack
+- Python
+- TouchDesigner 2022 or later
+- NDI Tools
+
+### Operating System
+- macOS 11 or later
+- Windows 10 / 11
+
+### Python Libraries
+- numpy
+- ndi-python
+- py5
 
 ## Screenshots / Media
-Projector or 
 
-Video Art Space
 
 ## Credits / Acknowledgements
-##Author- Wenxi Cao（Cici Cao）
+* Author- Wenxi Cao（Cici Cao）
 
-##References
+* References
 Archimedean spiral-https://en.wikipedia.org/wiki/Archimedean_spiral?utm_source
 Daniel Berio-Ndi_numpy_image.py
 
-##License
-*What license is it made under, if any?* 
+## License
+All rights reserved.
 
 ## Contact / Links
 *GitHub repo link, website, demo URL.*
