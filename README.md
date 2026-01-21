@@ -120,10 +120,9 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 ## Credits / Acknowledgements
 * Author- Wenxi Cao（Cici Cao）
 
-* References
-Archimedean spiral-https://en.wikipedia.org/wiki/Archimedean_spiral?utm_source
-
-Daniel Berio-Ndi_numpy_image.py
+* References  
+  Archimedean spiral-https://en.wikipedia.org/wiki/Archimedean_spiral?utm_source
+  Daniel Berio-Ndi_numpy_image.py
 
 ## License
 All rights reserved.
