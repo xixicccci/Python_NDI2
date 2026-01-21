@@ -24,9 +24,9 @@ There are two possible display methods for this work:
 
 The coding has been successfully run on the following models:
 
-Apple M3 Max (16-inch, 2021)， 36GB unified memory，1TB SSD²，Mac OS Sonoma 14.8.3.
-MacBook Pro 16” (Late 2019)Intel Core i7 / i9（9th Gen），36GB unified memory， 1TB SSD²
-macOS (Apple Silicon – MacBook Pro M1 to M4 series)
+<Apple M3 Max (16-inch, 2021)， 36GB unified memory，1TB SSD²，Mac OS Sonoma 14.8.3>
+<MacBook Pro 16” (Late 2019)Intel Core i7 / i9（9th Gen），36GB unified memory， 1TB SSD²>
+<macOS (Apple Silicon – MacBook Pro M1 to M4 series)>
 
 The computer must be connected to the screen by an HDMI.
 
