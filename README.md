@@ -29,7 +29,8 @@ MacBook Pro 16” (Late 2019)Intel Core i7 / i9（9th Gen），36GB unified memo
 
 maOS (Apple Silicon – MacBook Pro M1 to M4 series)  
 
-The computer must be connected to the screen by an HDMI.
+The computer must be connected to the screen by an HDMI and use 3.5mm to 3.5mm TRS cable
+to play sound.
 
 ### Light
 
@@ -74,7 +75,10 @@ This project generates real-time visuals using Python and py5, and streams the o
 	1.	Open TouchDesigner
 	2.	Use an NDI In TOP to receive the video stream
 	3.	Use a Switch TOP to switch between different visual inputs
-	4.	Further visual control and composition can be performed within TouchDesigner
+	4.	Further visual control and composition can be performed within TouchDesigner  
+
+* Step6: Display in TouchDesigner
+  Finally, connect the HDMI cable to the computer screen and use the 3.5mm to 6.5mm TRS cable to play the sound.
 
 ## Calibration 
 * Sound synchronization
@@ -111,13 +115,25 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 - py5
 
 ## Screenshots
+<img width="1281" height="711" alt="4" src="https://github.com/user-attachments/assets/901f6b86-1d06-4972-81f5-4694c85a0eb1" />
+<img width="1276" height="709" alt="3" src="https://github.com/user-attachments/assets/a3906bd3-4369-4065-bf93-ce4cfaee8dfa" />
+<img width="1284" height="714" alt="2" src="https://github.com/user-attachments/assets/2152c6e8-5e85-465f-bee3-381b628f0ecb" />
+<img width="1279" height="711" alt="1" src="https://github.com/user-attachments/assets/8ff381e4-aaa9-4679-9517-676309d02634" />
 
-![Image 1](Image/1.png)
-![Image 2](Image/2.png)
-![Image 3](Image/3.png)
-![Image 4](Image/4.png)
+![IMG_5594](https://github.com/user-attachments/assets/b1273a1e-b567-4dd4-9221-37153d0920b5)
+![IMG_5540](https://github.com/user-attachments/assets/5e5962cc-757d-4397-997b-ed8e293f5687)
+![IMG_5539](https://github.com/user-attachments/assets/44fe10fd-d1b2-49ba-87f1-9198eeab1700)
+<img width="1179" height="2556" alt="IMG_5538" src="https://github.com/user-attachments/assets/0819e9f7-4216-4192-8b77-9d2859a1a61f" />
+![IMG_5537](https://github.com/user-attachments/assets/35dce2ae-1914-473b-a1c1-ca9ac86a0cf2)
+![IMG_5547](https://github.com/user-attachments/assets/36404a37-6c59-42ae-949a-53c01f36c388)
+![IMG_5545](https://github.com/user-attachments/assets/fed51c51-83e6-44bb-b957-343c89aef698)
+![IMG_5543](https://github.com/user-attachments/assets/8b301dd4-0d65-404b-8ce0-06be4a21058c)
+![IMG_5542](https://github.com/user-attachments/assets/c42b4d85-1c10-4147-a0a2-4b8037ac574d)
+![IMG_5541](https://github.com/user-attachments/assets/120064fa-ab57-4dee-a4a3-9e7efb2f5209)
+
 
 ## Credits
+
 * Author- Wenxi Cao（Cici Cao）
 
 * References  
