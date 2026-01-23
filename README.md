@@ -77,8 +77,7 @@ This project generates real-time visuals using Python and py5, and streams the o
 	3.	Use a Switch TOP to switch between different visual inputs
 	4.	Further visual control and composition can be performed within TouchDesigner  
 
-* Step6: Display in TouchDesigner
-  Finally, connect the HDMI cable to the computer screen and use the 3.5mm to 6.5mm TRS cable to play the sound.
+* Step6: Finally, connect the HDMI cable to the computer screen and use the 3.5mm to 6.5mm TRS cable to play the sound.
 
 ## Calibration 
 * Sound synchronization
