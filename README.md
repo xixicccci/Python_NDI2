@@ -115,11 +115,6 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 - py5
 
 ## Screenshots
-<img width="1281" height="711" alt="4" src="https://github.com/user-attachments/assets/901f6b86-1d06-4972-81f5-4694c85a0eb1" />
-<img width="1276" height="709" alt="3" src="https://github.com/user-attachments/assets/a3906bd3-4369-4065-bf93-ce4cfaee8dfa" />
-<img width="1284" height="714" alt="2" src="https://github.com/user-attachments/assets/2152c6e8-5e85-465f-bee3-381b628f0ecb" />
-<img width="1279" height="711" alt="1" src="https://github.com/user-attachments/assets/8ff381e4-aaa9-4679-9517-676309d02634" />
-
 ![IMG_5594](https://github.com/user-attachments/assets/b1273a1e-b567-4dd4-9221-37153d0920b5)
 ![IMG_5540](https://github.com/user-attachments/assets/5e5962cc-757d-4397-997b-ed8e293f5687)
 ![IMG_5539](https://github.com/user-attachments/assets/44fe10fd-d1b2-49ba-87f1-9198eeab1700)
