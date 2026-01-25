@@ -141,4 +141,4 @@ Later, I will incorporate the interaction between images and sounds.
 All rights reserved.
 
 ## Contact / Links
-*GitHub repo link, website, demo URL.*
+*GitHub repo link (https://github.com/xixicccci/Python_NDI2.git).*
