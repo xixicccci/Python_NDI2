@@ -125,6 +125,8 @@ If you are interested in collaborating, please contact: caowenxixi@126.com
 ![IMG_5542](https://github.com/user-attachments/assets/c42b4d85-1c10-4147-a0a2-4b8037ac574d)
 ![IMG_5541](https://github.com/user-attachments/assets/120064fa-ab57-4dee-a4a3-9e7efb2f5209)
 
+## Further development
+Later, I will incorporate the interaction between images and sounds.
 
 ## Credits
 
