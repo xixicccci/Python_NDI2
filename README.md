@@ -29,7 +29,8 @@ MacBook Pro 16” (Late 2019)Intel Core i7 / i9（9th Gen），36GB unified memo
 
 maOS (Apple Silicon – MacBook Pro M1 to M4 series)  
 
-The computer must be connected to the screen by an HDMI and use 3.5mm to 3.5mm TRS cable to play sound.
+The computer must be connected to the screen by an HDMI and use 3.5mm to 3.5mm TRS cable to play sound.  
+
 ![HDMI](https://github.com/user-attachments/assets/5e414226-7c80-4ed4-bb38-8ab6e4701c8c)![TRSConn](https://github.com/user-attachments/assets/f5c104dc-4505-4b1a-bb75-4807f65cccd1)
 
 
